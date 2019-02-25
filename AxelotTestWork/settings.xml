@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<dbConfiguration>
+  <connectionString>D:\Projects\AxelotTestWork\chinook.db</connectionString>
+  <targetFolder>D:\Results</targetFolder>
+  <tableSettings deleteAfter = "false">
+    <tableName>customers</tableName>
+    <columns>
+      <column>FirstName</column>
+      <column>LastName</column>
+      <column>Country</column>
+      <column>Phone</column>
+    </columns>
+  </tableSettings>
+</dbConfiguration>
